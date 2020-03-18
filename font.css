@@ -1,0 +1,12 @@
+@font-face{
+	font-family: 'dd';
+	src:url('font/Dancing_Script/DancingScript-VariableFont_wght.ttf');
+}
+@font-face{
+	font-family: 'ff';
+	src:url('font/Advent_Pro,Dancing_Script,Ultra/Ultra/Ultra-Regular.ttf');
+}
+@font-face{
+	font-family: 'ee';
+	src:url('font/Advent_Pro,Dancing_Script/Advent_Pro/AdventPro-Bold.ttf');
+}
